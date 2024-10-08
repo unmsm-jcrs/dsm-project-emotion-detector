@@ -60,7 +60,6 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.otaliastudios.cameraview)
-    implementation(libs.firebase.ml.model.interpreter)
     implementation(libs.tensorflow.lite)
     implementation(libs.google.mlkit.face.detection)
     implementation(libs.google.play.services.mlkit.face.detection)
